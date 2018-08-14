@@ -1,4 +1,6 @@
-Object Oriented Programming:
+# Object Oriented Programming:
+
 class
 Object
-Polymorphism
+polymorphism
+Inheritence
