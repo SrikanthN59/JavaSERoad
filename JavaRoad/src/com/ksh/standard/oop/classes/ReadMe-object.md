@@ -9,7 +9,7 @@ where : where objectRefrenceName is variableName.
 ```
 
 
-# ways to create Object
+### ways to create Object
 
 .Using new keyword.
 
@@ -20,7 +20,7 @@ where : where objectRefrenceName is variableName.
 .Deserialization
 
 
-# Anonymous objects
+### Anonymous objects
 
 notes inprogress.
 

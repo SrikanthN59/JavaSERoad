@@ -20,7 +20,7 @@ class syntax
 ```
 
 
-# variables
+### variables
 
 
 An object stores its state in fields.
@@ -32,7 +32,7 @@ Variables in method declarations—these are called parameters.
 ```
 
 
-# Constructor
+### Constructor
 
 
 A class contains constructors that are invoked to create objects from the class blueprint. 

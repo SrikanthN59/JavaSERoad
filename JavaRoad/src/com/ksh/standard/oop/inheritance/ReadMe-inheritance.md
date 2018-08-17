@@ -18,7 +18,7 @@ Super Class, Sub class and Reusability.
 Object is SuperClass, Bicycle is subclass.
 
 
-# Types of Inheritance:
+### Types of Inheritance:
 
  
 Single Inheritance:
