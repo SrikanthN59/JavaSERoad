@@ -1,4 +1,5 @@
 #Object
+
 objects are key to understanding Object-oriented Technology.
 
 ```
@@ -9,6 +10,7 @@ where : where objectRefrenceName is variableName.
 
 
 #ways to create Object
+
 .Using new keyword.
 
 .Using Class.forName(String className)
@@ -17,8 +19,10 @@ where : where objectRefrenceName is variableName.
 
 .Deserialization
 
+
 #Anonymous objects
-notes inprogress....
+
+notes inprogress.
 
 
 Reference:

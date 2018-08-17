@@ -1,4 +1,5 @@
 #Class
+
 A class a 'Blue Print' or Prototype from which objects are created.
 
 class syntax
@@ -18,7 +19,9 @@ class syntax
 }
 ```
 
+
 #variables
+
 
 An object stores its state in fields.
 
@@ -28,7 +31,9 @@ Variables in a method or block of code—these are called 'local variables'.
 Variables in method declarations—these are called parameters.
 ```
 
+
 #Constructor
+
 
 A class contains constructors that are invoked to create objects from the class blueprint. 
 
@@ -60,7 +65,9 @@ https://www.geeksforgeeks.org/constructors-in-java/
 https://www.javamadesoeasy.com/2015/06/constructor-in-java-constructor.html
 
 
+
 #Methods
+
 
 The only required elements of a method declaration are the method's return type, name, a pair of parentheses, (), and a body between braces, {}.
 

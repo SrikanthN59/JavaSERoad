@@ -1,4 +1,5 @@
 #Inheritance
+
 Object-oriented programming allows classes to inherit commonly used state and behavior from other classes.
 
 
@@ -16,7 +17,10 @@ Terminology:
 Super Class, Sub class and Reusability.
 Object is SuperClass, Bicycle is subclass.
 
-#Types of Inheritance: 
+
+#Types of Inheritance:
+
+ 
 Single Inheritance:
 
 Multilevel Inheritance:
